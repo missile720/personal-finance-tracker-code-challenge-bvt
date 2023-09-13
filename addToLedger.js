@@ -41,7 +41,7 @@ try {
   const newData = {
     name: item,
     category,
-    amount,
+    amount: Number(amount),
     timestamp: formattedTime,
   };
 

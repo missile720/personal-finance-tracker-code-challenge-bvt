@@ -9,8 +9,20 @@
     {
       "name": "Banana",
       "category": "Groceries",
-      "amount": "2.01",
+      "amount": 2.01,
       "timestamp": "2023-09-13 20:03:20"
+    },
+    {
+      "name": "Steak",
+      "category": "Groceries",
+      "amount": 4.56,
+      "timestamp": "2023-09-13 20:13:08"
+    },
+    {
+      "name": "Laptop",
+      "category": "Electronics",
+      "amount": 999.99,
+      "timestamp": "2023-09-13 21:45:30"
     }
   ]
 }
